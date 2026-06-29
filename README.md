@@ -11,13 +11,16 @@ It will stratight launch Swagger Page.
 ## Running the Frontend
 
 cd GallagherAssessment.Client
+
 npm install
+
 npm run dev
+
 This starts the Vite development server. By default, the application is available at:
 
 http://localhost:5170
-## Generally it will staright work but is there is problem.
- Please check and cinfigure VITE_API_URL in .env.development in frontend
+## Troubleshoot.
+ Please check and cinfigure VITE_API_URL in .env.development in frontend.
 Checke Cors=>AllowedOrigins at Program.cs see front end url is allowed or not.
 vite.config.ts configured to run the site in 5170
 
