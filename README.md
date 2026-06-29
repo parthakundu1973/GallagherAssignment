@@ -43,3 +43,5 @@ Tagging Docker images with version numbers instead of latest.
 Managing secrets with Azure Key Vault.
 Adding monitoring and logging with Azure Monitor and Application Insights.
 Implementing approval gates before deploying to production.# GallagherAssignment
+
+I will also configure Azure API Management  for Rate limiting , Authorisation ussing OpenID and Oauth2, Routing ,CORS  ETC. 
