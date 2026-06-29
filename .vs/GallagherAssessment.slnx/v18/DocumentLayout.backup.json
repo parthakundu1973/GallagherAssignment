@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GallagherAssessment\\GallagherAssessment.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\gallagherassessment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\gallagherassessment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\service\\iprobabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\service\\iprobabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\dtos\\probabilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\dtos\\probabilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\service\\probabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\service\\probabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessmentapitest\\application\\service\\probabilityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|solutionrelative:gallagherassessmentapitest\\application\\service\\probabilityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessmentapitest\\controller\\probabilitycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|solutionrelative:gallagherassessmentapitest\\controller\\probabilitycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessmentapitest\\services\\eitherprobabilitycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|solutionrelative:gallagherassessmentapitest\\services\\eitherprobabilitycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessmentapitest\\services\\combinedprobabilitycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AFCED6-3C7D-D75A-91EA-4E72B6E469C2}|GallagherAssessmentAPITest\\GallagherAssessmentAPITest.csproj|solutionrelative:gallagherassessmentapitest\\services\\combinedprobabilitycalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\decorator\\loggingprobabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\decorator\\loggingprobabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\controllers\\probabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\controllers\\probabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\domainlayer\\services\\eitherprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\domainlayer\\services\\eitherprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\domainlayer\\services\\combinedprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\domainlayer\\services\\combinedprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\dtos\\probabilitysettingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\dtos\\probabilitysettingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\dtos\\probabilitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\dtos\\probabilitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\domainlayer\\interfaces\\iprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\domainlayer\\interfaces\\iprobabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\dtos\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\dtos\\operationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GallagherAssessment.Client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|c:\\gallagherassessment\\gallagherassessment.api\\gallagherassessment.api\\application\\dtos\\probabilityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E036F7D-1BDD-29DF-613E-C6462FC3F6BD}|GallagherAssessment.API\\GallagherAssessment.API.csproj|solutionrelative:gallagherassessment.api\\application\\dtos\\probabilityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Dockerfile",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Dockerfile",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Dockerfile",
+              "RelativeToolTip": "GallagherAssessment.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-29T07:12:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProbabilityRequest.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilityRequest.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\DTOs\\ProbabilityRequest.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilityRequest.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\DTOs\\ProbabilityRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:31:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProbabilityService.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Service\\IProbabilityService.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\Service\\IProbabilityService.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Service\\IProbabilityService.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\Service\\IProbabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:57:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GallagherAssessment.API.csproj",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\GallagherAssessment.API.csproj",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\GallagherAssessment.API.csproj",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\GallagherAssessment.API.csproj",
+              "RelativeToolTip": "GallagherAssessment.API\\GallagherAssessment.API.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-27T18:22:49.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\appsettings.json",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\appsettings.json",
+              "RelativeToolTip": "GallagherAssessment.API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T09:51:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProbabilityService.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Service\\ProbabilityService.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\Service\\ProbabilityService.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Service\\ProbabilityService.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\Service\\ProbabilityService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:35:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProbabilityServiceTests.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Application\\Service\\ProbabilityServiceTests.cs",
+              "RelativeDocumentMoniker": "GallagherAssessmentAPITest\\Application\\Service\\ProbabilityServiceTests.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Application\\Service\\ProbabilityServiceTests.cs",
+              "RelativeToolTip": "GallagherAssessmentAPITest\\Application\\Service\\ProbabilityServiceTests.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:27:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EitherProbabilityCalculatorTests.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Services\\EitherProbabilityCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GallagherAssessmentAPITest\\Services\\EitherProbabilityCalculatorTests.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Services\\EitherProbabilityCalculatorTests.cs",
+              "RelativeToolTip": "GallagherAssessmentAPITest\\Services\\EitherProbabilityCalculatorTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:20:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CombinedProbabilityCalculatorTests.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Services\\CombinedProbabilityCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GallagherAssessmentAPITest\\Services\\CombinedProbabilityCalculatorTests.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Services\\CombinedProbabilityCalculatorTests.cs",
+              "RelativeToolTip": "GallagherAssessmentAPITest\\Services\\CombinedProbabilityCalculatorTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:15:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoggingProbabilityService.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Decorator\\LoggingProbabilityService.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\Decorator\\LoggingProbabilityService.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\Decorator\\LoggingProbabilityService.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\Decorator\\LoggingProbabilityService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvzAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T18:21:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProbabilityController.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Controllers\\ProbabilityController.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Controllers\\ProbabilityController.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Controllers\\ProbabilityController.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Controllers\\ProbabilityController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:38:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProbabilityControllerTests.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Controller\\ProbabilityControllerTests.cs",
+              "RelativeDocumentMoniker": "GallagherAssessmentAPITest\\Controller\\ProbabilityControllerTests.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessmentAPITest\\Controller\\ProbabilityControllerTests.cs",
+              "RelativeToolTip": "GallagherAssessmentAPITest\\Controller\\ProbabilityControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:05:59.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EitherProbabilityCalculator.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Services\\EitherProbabilityCalculator.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\DomainLayer\\Services\\EitherProbabilityCalculator.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Services\\EitherProbabilityCalculator.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\DomainLayer\\Services\\EitherProbabilityCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:27:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProbabilitySettingItem.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettingItem.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettingItem.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettingItem.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T11:23:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CombinedProbabilityCalculator.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Services\\CombinedProbabilityCalculator.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\DomainLayer\\Services\\CombinedProbabilityCalculator.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Services\\CombinedProbabilityCalculator.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\DomainLayer\\Services\\CombinedProbabilityCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:26:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProbabilitySettings.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettings.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettings.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettings.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\DTOs\\ProbabilitySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T11:21:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Program.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Program.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Program.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:48:53.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProbabilityCalculator.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Interfaces\\IProbabilityCalculator.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\DomainLayer\\Interfaces\\IProbabilityCalculator.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\DomainLayer\\Interfaces\\IProbabilityCalculator.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\DomainLayer\\Interfaces\\IProbabilityCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T09:01:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OperationDto.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\OperationDto.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\DTOs\\OperationDto.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\OperationDto.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\DTOs\\OperationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:46:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GallagherAssessment.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T21:59:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "useProbabilityCalculator.ts",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\features\\probability\\hooks\\useProbabilityCalculator.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-27T16:37:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProbabilityPage.tsx",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\features\\ProbabilityPage.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-06-27T16:39:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProbabilityForm.tsx",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-06-27T16:42:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProbabilityForm.module.css",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\Components\\ProbabilityForm\\ProbabilityForm.module.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-27T17:37:23.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "probability.service.ts",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\features\\probability\\Services\\probability.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-27T16:30:17.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "probability.types.ts",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\features\\probability\\types\\probability.types.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-27T14:49:00.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "GallagherAssessment.Client\\src\\App.tsx",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.Client\\src\\App.tsx",
+              "RelativeToolTip": "GallagherAssessment.Client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-06-27T17:42:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProbabilityResponse.cs",
+              "DocumentMoniker": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilityResponse.cs",
+              "RelativeDocumentMoniker": "GallagherAssessment.API\\Application\\DTOs\\ProbabilityResponse.cs",
+              "ToolTip": "C:\\GallagherAssessment\\GallagherAssessment.API\\GallagherAssessment.API\\Application\\DTOs\\ProbabilityResponse.cs",
+              "RelativeToolTip": "GallagherAssessment.API\\Application\\DTOs\\ProbabilityResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:33:30.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

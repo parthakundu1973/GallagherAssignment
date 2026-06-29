@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GallagherAssessment.API/GallagherAssessment.API.csproj" />
+  <Project Path="GallagherAssessmentAPITest/GallagherAssessmentAPITest.csproj" />
+</Solution>

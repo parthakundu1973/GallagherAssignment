@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\ProbabilityForm",
+    "\\src\\features",
+    "\\src\\features\\probability",
+    "\\src\\features\\probability\\hooks",
+    "\\src\\features\\probability\\Services",
+    "\\src\\features\\probability\\types",
+    "\\src\\features\\probability\\utils"
+  ],
+  "SelectedNode": "\\src\\features\\ProbabilityPage.tsx",
+  "PreviewInSolutionExplorer": false
+}

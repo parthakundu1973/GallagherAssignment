@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "GallagherAssessment.API.Controllers.ProbabilityController",
+    "Method": "CalculateProbability",
+    "RelativePath": "api/Probability",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GallagherAssessment.API.Application.DTOs.ProbabilityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GallagherAssessment.API.Application.DTOs.ProbabilityResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GallagherAssessment.API.Controllers.ProbabilityController",
+    "Method": "CalculateProbability",
+    "RelativePath": "api/Probability/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GallagherAssessment.API.Application.DTOs.ProbabilityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GallagherAssessment.API.Application.DTOs.ProbabilityResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GallagherAssessment.API.Controllers.ProbabilityController",
+    "Method": "GetOperations",
+    "RelativePath": "api/Probability/operations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GallagherAssessment.API.Application.DTOs.ProbabilityOperationChoiceItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
