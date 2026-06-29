@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: GallagherAssessment-API
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: GallagherAssessment-API
+  template:
+    metadata:
+      labels:
+        app: GallagherAssessment-API
+    spec:
+      containers:
+      - name: GallagherAssessment-API
+        image: ACR.azurecr.io/GallagherAssessment-API:latest
+        ports:
+        - containerPort: 80

@@ -1,0 +1,92 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  imageName: gallagherassessment-api
+
+# =========================
+# CI STAGE
+# =========================
+stages:
+
+- stage: Build
+  displayName: Build Stage
+  jobs:
+
+  - job: BuildFrontend
+    steps:
+
+    - task: NodeTool@0
+      inputs:
+        versionSpec: '20.x'
+
+    - script: |
+        cd frontend
+        npm install
+        npm run build
+      displayName: Build React
+
+    - task: AzureStaticWebApp@0
+      inputs:
+        azure_static_web_apps_api_token: $(deployment_token)
+        app_location: "frontend"
+        output_location: "build"
+
+  - job: BuildBackend
+    steps:
+     # ---------------- RESTORE ----------------
+    - script: |
+        cd GallagherAssessment.API
+        dotnet restore
+      displayName: Restore dependencies
+
+    # ---------------- BUILD ----------------
+    - script: |
+        cd GallagherAssessment.API
+        dotnet build --configuration Release
+      displayName: Build solution
+
+    # ---------------- TEST ----------------
+    - script: |
+        cd GallagherAssessment.API
+        dotnet test --configuration Release --logger trx
+      displayName: Run unit tests
+        
+    # ---------------- DOCKER BUILD ---------------- 
+    - task: Docker@2
+      displayName: Build Docker Image
+      inputs: 
+          command: build
+          repository: $(imageName)
+          dockerfile: GallagherAssessment.API/Dockerfile
+          tags: $(Build.BuildId)
+
+    - task: Docker@2
+      displayName: Push Image
+      inputs:
+          command: push
+          repository: $(imageName)
+          containerRegistry: 'ACR_SERVICE_CONNECTION'
+          tags: $(Build.BuildId)
+
+# =========================
+# CD STAGE (KUBERNETES)
+# =========================
+- stage: Deploy
+  dependsOn: Build
+  jobs:
+
+  - job: DeployToAKS
+    steps:
+
+    - task: KubernetesManifest@1
+      displayName: Deploy to AKS
+      inputs:
+        action: deploy
+        kubernetesServiceConnection: 'AKS_SERVICE_CONNECTION'
+        manifests: |
+          k8s/deployment.yml
+          k8s/service.yml
